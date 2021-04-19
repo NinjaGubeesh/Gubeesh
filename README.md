@@ -7,6 +7,6 @@ Invite Gubeesh Here - [Gubeesh Invite Link](https://discord.com/oauth2/authorize
 This Bot Is Always Updated And Tons Of Commands Coming Soon™️
 🎊 Thanks Again For Using Gubeesh In Your Server, Feel Free To Report Bugs And Suggest Commands 🎉
 
-Thanks To Everyone Who Helped Me...
+
 
 
