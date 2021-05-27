@@ -1,5 +1,6 @@
 # Gubeesh
-![image](https://cdn.discordapp.com/avatars/819231223129833532/49e223af1dffc98f6c3cfb7f448dc354.png?size=128)
+![image](https://user-images.githubusercontent.com/80934417/119806404-ccfcf580-beff-11eb-908f-d63f78ecb82d.png)
+
 A Simple And Good Discord Bot With Discord.js
 
 Invite Gubeesh Here - [Gubeesh Invite Link](https://discord.com/oauth2/authorize?client_id=819231223129833532&permissions=37080128&scope=bot "Invite Gubeesh To Your Server.")
